@@ -1,0 +1,2 @@
+#!/bin/sh
+wget -q -O - http://apt.octonezd.me/octo/repo.gpg | apt-key add -

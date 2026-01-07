@@ -1,0 +1,7 @@
+Package: octorepo
+Version: 1.0-5
+Section: user/other
+Priority: optional
+Architecture: all
+Maintainer: Yan <me@octonezd.me>
+Description: Package for installing Octo repo
